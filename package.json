@@ -6,7 +6,8 @@
   "main": "decision-record.js",
   "bin": "decision-record.js",
   "scripts": {
-    "Test-environment-with-Jest": "jest"
+    "Coverage-and-Test": "jest --coverage",
+    "Test": "jest"
   },
   "keywords": [],
   "author": "Jon Spriggs",

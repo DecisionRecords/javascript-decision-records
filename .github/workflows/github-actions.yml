@@ -9,7 +9,7 @@ jobs:
       - name: Install Modules
         run: yarn
       - name: Run tests
-        run: yarn Test-environment-with-Jest
+        run: yarn Coverage-and-Test
   Run-CI-on-Windows:
     runs-on: windows-2019
     steps:
@@ -18,7 +18,7 @@ jobs:
       - name: Install Modules
         run: yarn
       - name: Run tests
-        run: yarn Test-environment-with-Jest
+        run: yarn Coverage-and-Test
   Run-CI-on-MacOS10:
     runs-on: macos-10.15
     steps:
@@ -27,4 +27,4 @@ jobs:
       - name: Install Modules
         run: yarn
       - name: Run tests
-        run: yarn Test-environment-with-Jest
+        run: yarn Coverage-and-Test
