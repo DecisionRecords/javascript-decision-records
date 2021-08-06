@@ -1,13 +1,13 @@
-# Decision Records Javascript Script
+# Decision Records Javascript Application
 
 _**WARNING THIS IS INCOMPLETE, AND SHOULD NOT BE USED YET!**_
 
-This script is intended to automate the process of adding and updating Decision Records (DR),
-sometimes known as "Architectural Decision Records" (ADR). A DR is a simple file which explains
-why a decision was made at a particular time, the context in which that decision was made, and
-what implications it may have. These files reside in a specific directory, and have a specific
-naming structure. Linking between documents is recommended, and replacing documents should be
-fairly commonplace.
+This application is intended to automate the process of adding and updating Decision Records
+(DR), sometimes known as "Architectural Decision Records" (ADR). A DR is a simple file which
+explains why a decision was made at a particular time, the context in which that decision was
+made, and what implications it may have. These files reside in a specific directory, and have
+a specific naming structure. Linking between documents is recommended, and replacing documents
+should be fairly commonplace.
 
 ## Running the script
 
