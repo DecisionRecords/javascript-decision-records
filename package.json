@@ -18,7 +18,8 @@
     "jest": "^27.0.6"
   },
   "dependencies": {
+    "@caporal/core": "^2.0.2",
     "chalk": "^4.1.1",
-    "gitlike-cli": "^0.1.0"
+    "limax": "^3.0.0"
   }
 }
